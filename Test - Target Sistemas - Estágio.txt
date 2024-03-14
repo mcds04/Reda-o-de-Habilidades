@@ -1,0 +1,194 @@
+Redação
+
+2) Técnica - faça o seu melhor, escolha a linguagem na qual você se sentir mais confortável e, nos mande o link do repositório no GITHUB com as soluções que você desenvolveu.
+
+Estágio Ribeirão Preto - 2024 - Redação
+🧑‍💻Habilidades em JavaScript e Soluções Desenvolvidas
+
+🚀HABILIDADES EM JAVASCRIPT E SOLUCÕES DESENVOLVIDAS🚀
+
+Como programador(a) web, uma das minhas principais habilidades é em JavaScript, uma linguagem versátil e poderosa amplamente utilizada para o desenvolvimento de aplicações web interativas. Ao longo da minha jornada acadêmica e profissional, adquiri um conhecimento sólido em JavaScript e explorei suas diversas aplicações no desenvolvimento de soluções criativas e eficazes.
+
+Uma das soluções que desenvolvi utilizando JavaScript foi um "Carrinho de Compras para sites web", como parte do meu estágio na empresa Nu Descomplica. Nesse projeto, utilizei JavaScript juntamente com outras tecnologias como CSS, HTML, Bash e React para criar uma aplicação que permite aos usuários adicionar produtos ao carrinho, definir quantidades e acompanhar a somatória dos valores totais da compra em tempo real.
+
+Além disso, desenvolvi diversas aplicações e funcionalidades interativas para sites utilizando JavaScript. Por exemplo, implementei formulários de contato com validação de entrada de dados em tempo real para garantir uma melhor experiência do usuário e prevenção contra dados inválidos. Também criei galerias de imagens dinâmicas que permitem aos usuários navegar entre as imagens de forma intuitiva e responsiva.
+
+Outra área em que explorei as habilidades do JavaScript é no desenvolvimento de aplicações de página única (SPAs), onde utilizei frameworks como React para criar interfaces de usuário dinâmicas e altamente responsivas. Isso incluiu a implementação de rotas, manipulação de estado, integração com APIs e renderização de componentes reutilizáveis.
+
+Em resumo, minhas habilidades em JavaScript me capacitaram a desenvolver uma variedade de soluções inovadoras e funcionais para atender às necessidades dos usuários e clientes. Estou entusiasmado(a) em continuar explorando o potencial desta linguagem e contribuindo para projetos desafiadores e impactantes no futuro.
+
+******************************************************************
+[Pergunta] - Temos as IAs em destaque ultimamente. Elas estão dirigindo veículos, respondendo à SACs, aprimoram as imagens capturadas por câmeras. Temos também as IAs generalistas, que respondem a qualquer tipo de pergunta ou geram imagens a partir de uma descrição.
+
+A partir destas aplicações, comente como você vê os impactos das IAs no nosso dia a dia, hoje e em um futuro próximo.
+[Rascunho] - A Inteligência Artificial (IA) tem um impacto significativo no nosso dia a dia e continuará a ter ainda mais no futuro. Aqui estão alguns pontos que você pode considerar:
+
+[Resposta] -  Hoje:
+
+A IA está nos ajudando a fazer coisas chatas mais rápido, como responder perguntas comuns no atendimento ao cliente.
+A IA está nos ajudando a ficar mais seguros, como em carros que dirigem sozinhos.
+A IA está tornando nossas fotos melhores, melhorando a qualidade das imagens.
+Futuro Próximo:
+
+IAs que podem fazer qualquer coisa estão melhorando. Isso pode mudar muitas áreas, como educação e arte.
+A IA poderá nos conhecer melhor e oferecer coisas que realmente gostamos ou precisamos.
+A IA poderá nos ajudar a resolver problemas grandes e difíceis, como prever o clima ou encontrar novos remédios.
+Mas lembre-se, a IA tem muitos benefícios, mas também tem desafios. Precisamos usar a IA de forma responsável.
+
+Hoje:
+
+Automatização de Tarefas: A IA está automatizando tarefas rotineiras em muitos setores, incluindo atendimento ao cliente, onde chatbots podem responder a perguntas frequentes, liberando tempo para os humanos se concentrarem em problemas mais complexos.
+Melhoria da Segurança: A IA está sendo usada para melhorar a segurança, por exemplo, em carros autônomos que podem detectar obstáculos e reagir mais rapidamente do que um motorista humano.
+Aprimoramento de Imagens: A IA está sendo usada para melhorar a qualidade das imagens capturadas por câmeras, o que é útil em muitos campos, desde a fotografia até a medicina.
+
+Futuro Próximo:
+
+IA Generalista: As IAs generalistas, que podem responder a qualquer tipo de pergunta ou gerar imagens a partir de uma descrição, estão se tornando mais sofisticadas. Isso poderia levar a avanços em muitos campos, desde a educação até a arte.
+Personalização: A IA poderá oferecer experiências cada vez mais personalizadas, desde recomendações de produtos até cuidados de saúde personalizados.
+Resolução de Problemas Complexos: À medida que a IA se torna mais avançada, ela poderá ser usada para resolver problemas cada vez mais complexos, desde a previsão do clima até a descoberta de novos medicamentos.
+No entanto, é importante notar que, embora a IA tenha o potencial de trazer muitos benefícios, também existem desafios a serem enfrentados, incluindo questões éticas e de privacidade. É crucial que continuemos a desenvolver a IA de maneira responsável.
+
+Estágio Ribeirão Preto - 2024
+Pergunta 2 de 2
+1) Observe o trecho de código abaixo:
+
+int INDICE = 13, SOMA = 0, K = 0;
+
+enquanto K < INDICE faça
+
+{
+
+K = K + 1;
+
+SOMA = SOMA + K;
+
+}
+
+imprimir(SOMA);
+
+
+
+Ao final do processamento, qual será o valor da variável SOMA?
+
+R: é um loop que soma os números de 1 a INDICE (neste caso, 13). Isso é essencialmente a soma dos primeiros n números naturais.
+A fórmula para a soma dos primeiros n números naturais é 2n∗(n+1)​
+.
+Substituindo n por 13, temos 213∗(13+1)​=91
+.
+Portanto, ao final do processamento, o valor da variável SOMA será 91.
+
+
+
+2) Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor sempre será a soma dos 2 valores anteriores (exemplo: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34...), escreva um programa na linguagem que desejar onde, informado um número, ele calcule a sequência de Fibonacci e retorne uma mensagem avisando se o número informado pertence ou não a sequência.
+
+
+
+IMPORTANTE:
+
+Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
+
+R: Em um Programa em Python:  gera a sequência de Fibonacci até um número especificado e verifica se esse número está na sequência
+
+Cód Py : def fibonacci(n):
+    fib_sequence = [0, 1]
+    while fib_sequence[-1] < n:
+        fib_sequence.append(fib_sequence[-1] + fib_sequence[-2])
+    return fib_sequence
+
+def check_in_fibonacci(n, fib_sequence):
+    if n in fib_sequence:
+        return f"O número {n} pertence à sequência de Fibonacci."
+    else:
+        return f"O número {n} não pertence à sequência de Fibonacci."
+
+n = 34  # Substitua por qualquer número que você deseja verificar
+fib_sequence = fibonacci(n)
+message = check_in_fibonacci(n, fib_sequence)
+print(message)
+
+Saída: O número 34 pertence à sequência de Fibonacci. "primeiro teste"
+            O número 15 não pertence à sequência de Fibonacci. "segundo teste"
+
+
+
+3) Descubra a lógica e complete o próximo elemento:
+
+
+
+a) 1, 3, 5, 7, ___
+
+b) 2, 4, 8, 16, 32, 64, ____
+
+c) 0, 1, 4, 9, 16, 25, 36, ____
+
+d) 4, 16, 36, 64, ____
+
+e) 1, 1, 2, 3, 5, 8, ____
+
+f) 2,10, 12, 16, 17, 18, 19, ____
+
+R: a) A sequência é uma progressão aritmética onde cada número é 2 unidades maior que o anterior. Então, o próximo número é 7 + 2 = 9.
+b) A sequência é uma progressão geométrica onde cada número é o dobro do anterior. Então, o próximo número é 64 * 2 = 128.
+c) A sequência é dos quadrados dos números naturais. Então, o próximo número é 72=49.
+d) A sequência é dos quadrados dos números pares. Então, o próximo número é 102=100.
+e) A sequência é a sequência de Fibonacci, onde cada número é a soma dos dois anteriores. Então, o próximo número é 5 + 8 = 13.
+f) A sequência aumenta de 8, depois de 2, e depois aumenta de 1 repetidamente. Então, o próximo número é 19 + 8 = 27.
+
+
+
+
+4) Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em uma sala diferente. Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. Seu objetivo é descobrir qual interruptor controla qual lâmpada.
+
+Como você faria para descobrir, usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada?
+
+R: A minha estratégia seria : 
+Ligue o primeiro interruptor e deixe-o ligado por alguns minutos.
+Desligue o primeiro interruptor e ligue o segundo interruptor.
+Vá até a sala das lâmpadas.
+Neste ponto, você pode identificar qual interruptor controla cada lâmpada da seguinte maneira:
+
+A lâmpada que está acesa é controlada pelo segundo interruptor (o único que você deixou ligado).
+A lâmpada que está apagada e ainda quente é controlada pelo primeiro interruptor (você o ligou tempo suficiente para a lâmpada esquentar, mas depois o desligou).
+A lâmpada que está apagada e fria é controlada pelo terceiro interruptor (você nunca o ligou).
+
+
+ 
+
+5) Escreva um programa que inverta os caracteres de um string.
+
+
+IMPORTANTE:
+
+a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
+
+b) Evite usar funções prontas, como, por exemplo, reverse;
+
+
+R: Em um  programa em Python: que inverte uma string sem usar a função reverse:
+
+Cód Py: 
+
+def inverter_string(s):
+    s_invertida = ''
+    for caracter in s:
+        s_invertida = caracter + s_invertida
+    return s_invertida
+
+s = "Olá, mundo!"  # Substitua por qualquer string que você deseja inverter
+s_invertida = inverter_string(s)
+print(s_invertida)
+
+Saída: PS C:\projetos\Afrocodigod If> & C:/Users/crist/AppData/Local/Programs/Python/Python312/python.exe "c:/projetos/Funcao-reverse.py"
+
+!etset o zef anitsirC
+
+
+
+
+
+NÃO SE ESQUEÇA DE INSERIR O LINK DO SEU REPOSITÓRIO NO GITHUB COM O CÓDIGO FONTE QUE VOCÊ DESENVOLVEU .
+
+O LINK DO SEU REPOSITÓRIO NO GITHUB 
+
+https://github.com/mcds04/Reda-o-de-Habilidades/blob/main/README.md
+
