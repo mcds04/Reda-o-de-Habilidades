@@ -1,4 +1,5 @@
-# Reda-o-de-Habilidades
+# Estágio Ribeirão Preto - 2024 - Redação
+
 
 :technologist:Habilidades em JavaScript e Soluções Desenvolvidas
 
